@@ -1,6 +1,3 @@
-RDP Code 2024
-Share
-
 name: Cl
 
 on: [push, workflow_dispatch]
